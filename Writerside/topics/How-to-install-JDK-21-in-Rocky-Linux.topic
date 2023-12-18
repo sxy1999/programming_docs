@@ -1,0 +1,3 @@
+run command
+
+> sudo vi /etc/yum.repos.d/adoptium.repo
